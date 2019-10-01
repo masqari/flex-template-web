@@ -900,7 +900,7 @@
   "TopbarMobileMenu.signupOrLogin": "{signup} or {login}",
   "TopbarMobileMenu.unauthorizedGreeting": "Hello there,{lineBreak}would you like to {signupOrLogin}?",
   "TopbarMobileMenu.yourListingsLink": "Your listings",
-  "TopbarSearchForm.placeholder": " Enter Destination - Gran Canaria…",
+  "TopbarSearchForm.placeholder": "Enter Destination - Gran Canaria…",
   "TopbarSearchForm.searchHelp": "Tip: You can also search activity by zip code, for example \"35130\" or city district \"Puerto Rico\".",
   "TransactionPage.deletedListing": "deleted listing",
   "TransactionPage.fetchOrderFailed": "Fetching order data failed.",
