@@ -11,8 +11,8 @@ export default [
   {
     id: 'default-helsinki',
     predictionPlace: {
-      address: 'Helsinki, Finland',
-      bounds: new LatLngBounds(new LatLng(60.29783, 25.25448), new LatLng(59.92248, 24.78287)),
+      address: 'Meloneras, Gran Canaria',
+      bounds: new LatLngBounds(new LatLng(28, 16), new LatLng(27, 15)),
     },
   },
   {

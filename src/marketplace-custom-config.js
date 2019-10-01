@@ -4,8 +4,8 @@
 
 export const amenities = [
   {
-    key: 'towels',
-    label: 'Towels',
+    key: 'badgad',
+    label: 'Bagdad',
   },
   {
     key: 'bathroom',
@@ -38,17 +38,17 @@ export const amenities = [
 ];
 
 export const categories = [
-  { key: 'smoke', label: 'Smoke' },
-  { key: 'electric', label: 'Electric' },
-  { key: 'wood', label: 'Wood' },
-  { key: 'other', label: 'Other' },
+  { key: 'activity', label: 'Activity' },
+  { key: 'tours', label: 'Tour' },
+  { key: 'attraction', label: 'Attraction' },
+  { key: 'experience', label: 'Experience' },
 ];
 
 // Price filter configuration
 // Note: unlike most prices this is not handled in subunits
 export const priceFilterConfig = {
   min: 0,
-  max: 1000,
+  max: 9000,
   step: 5,
 };
 
